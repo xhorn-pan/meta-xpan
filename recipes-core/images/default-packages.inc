@@ -1,2 +1,1 @@
-IMAGE_INSTALL += " cmake qtbase util-linux pciutils ethtool "
-MACHINE_FEATURES += "intel-ucode"
+IMAGE_INSTALL += " cmake util-linux pciutils ethtool"
